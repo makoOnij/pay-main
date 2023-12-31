@@ -1,0 +1,1 @@
+{"doc":" 放行白名单配置\n\n @author ruoyi\n","fields":[{"name":"whites","doc":" 放行白名单配置，网关不校验此处的白名单\n"}],"enumConstants":[],"methods":[],"constructors":[]}

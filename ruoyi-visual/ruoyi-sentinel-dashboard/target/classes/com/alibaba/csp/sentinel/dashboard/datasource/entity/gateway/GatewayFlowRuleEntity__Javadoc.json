@@ -1,0 +1,1 @@
+{"doc":" Entity for {@link GatewayFlowRule}.\n\n @author cdfive\n @since 1.7.0\n","fields":[{"name":"INTERVAL_UNIT_SECOND","doc":"0-秒"},{"name":"INTERVAL_UNIT_MINUTE","doc":"1-分"},{"name":"INTERVAL_UNIT_HOUR","doc":"2-时"},{"name":"INTERVAL_UNIT_DAY","doc":"3-天"}],"enumConstants":[],"methods":[],"constructors":[]}

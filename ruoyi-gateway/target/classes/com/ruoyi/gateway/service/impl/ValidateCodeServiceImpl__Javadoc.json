@@ -1,0 +1,1 @@
+{"doc":" 验证码实现处理\n\n @author ruoyi\n","fields":[],"enumConstants":[],"methods":[{"name":"createCaptcha","paramTypes":[],"doc":" 生成验证码\n"},{"name":"checkCaptcha","paramTypes":["java.lang.String","java.lang.String"],"doc":" 校验验证码\n"}],"constructors":[]}

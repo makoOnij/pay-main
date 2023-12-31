@@ -1,0 +1,1 @@
+{"doc":" 定义MQ消息格式\n\n @author terrfly\n @site https://www.jeequan.com\n @date 2021/7/22 15:33\n","fields":[],"enumConstants":[],"methods":[{"name":"getMQName","paramTypes":[],"doc":" MQ名称\n"},{"name":"getMQType","paramTypes":[],"doc":" MQ 类型\n"},{"name":"toMessage","paramTypes":[],"doc":" 构造MQ消息体 String类型\n"}],"constructors":[]}

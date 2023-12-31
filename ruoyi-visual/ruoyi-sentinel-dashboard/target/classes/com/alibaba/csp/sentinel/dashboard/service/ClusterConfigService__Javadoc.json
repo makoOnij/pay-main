@@ -1,0 +1,1 @@
+{"doc":" @author Eric Zhao\n @since 1.4.0\n","fields":[],"enumConstants":[],"methods":[{"name":"getClusterUniversalState","paramTypes":["java.lang.String"],"doc":" Get cluster state list of all available machines of provided application.\n\n @param app application name\n @return cluster state list of all available machines of the application\n @since 1.4.1\n"}],"constructors":[]}

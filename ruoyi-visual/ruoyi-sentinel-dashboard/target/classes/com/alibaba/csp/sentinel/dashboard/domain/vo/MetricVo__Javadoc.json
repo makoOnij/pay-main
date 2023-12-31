@@ -1,0 +1,1 @@
+{"doc":" @author leyou\n","fields":[{"name":"rt","doc":" average rt\n"}],"enumConstants":[],"methods":[{"name":"fromMetricEntities","paramTypes":["java.util.Collection","java.lang.String"],"doc":" 保留资源名为identity的结果。\n\n @param entities 通过hashCode查找到的MetricEntities\n @param identity 真正需要查找的资源名\n @return\n"}],"constructors":[]}

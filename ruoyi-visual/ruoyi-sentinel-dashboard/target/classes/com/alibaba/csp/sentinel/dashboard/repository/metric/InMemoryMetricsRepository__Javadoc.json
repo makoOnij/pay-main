@@ -1,0 +1,1 @@
+{"doc":" Caches metrics data in a period of time in memory.\n\n @author Carpenter Lee\n @author Eric Zhao\n","fields":[{"name":"allMetrics","doc":" {@code app -> resource -> timestamp -> metric}\n"}],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":" 文档实体\n","fields":[{"name":"id","doc":" es中的唯一id\n"},{"name":"title","doc":" 文档标题\n"},{"name":"content","doc":" 文档内容\n"}],"enumConstants":[],"methods":[],"constructors":[]}

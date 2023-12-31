@@ -1,0 +1,1 @@
+{"doc":" Server state controller.\n\n @author xingxuechao on:2019/2/27 11:17 AM\n","fields":[],"enumConstants":[],"methods":[{"name":"serverState","paramTypes":[],"doc":" Get server state of current server.\n\n @return state json.\n"}],"constructors":[]}

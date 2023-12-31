@@ -1,0 +1,29 @@
+{
+  "groups": [
+    {
+      "name": "tenant",
+      "type": "com.ruoyi.common.tenant.properties.TenantProperties",
+      "sourceType": "com.ruoyi.common.tenant.properties.TenantProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "tenant.column",
+      "type": "java.lang.String",
+      "description": "维护租户列名称",
+      "sourceType": "com.ruoyi.common.tenant.properties.TenantProperties"
+    },
+    {
+      "name": "tenant.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.ruoyi.common.tenant.properties.TenantProperties"
+    },
+    {
+      "name": "tenant.tables",
+      "type": "java.util.List<java.lang.String>",
+      "description": "多租户的数据表集合",
+      "sourceType": "com.ruoyi.common.tenant.properties.TenantProperties"
+    }
+  ],
+  "hints": []
+}

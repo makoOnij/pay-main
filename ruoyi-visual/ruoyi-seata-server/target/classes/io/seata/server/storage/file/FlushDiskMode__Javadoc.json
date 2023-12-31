@@ -1,0 +1,1 @@
+{"doc":" @author lizhao\n","fields":[],"enumConstants":[{"name":"SYNC_MODEL","doc":" sync flush disk\n"},{"name":"ASYNC_MODEL","doc":" async flush disk\n"}],"methods":[],"constructors":[]}

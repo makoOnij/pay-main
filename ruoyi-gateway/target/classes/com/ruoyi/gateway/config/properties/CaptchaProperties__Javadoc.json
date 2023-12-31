@@ -1,0 +1,1 @@
+{"doc":" 验证码配置\n\n @author ruoyi\n","fields":[{"name":"type","doc":" 验证码类型\n"},{"name":"category","doc":" 验证码类别\n"},{"name":"numberLength","doc":" 数字验证码位数\n"},{"name":"charLength","doc":" 字符验证码长度\n"},{"name":"enabled","doc":" 验证码开关\n"},{"name":"googleSecret","doc":" 是否开启谷歌验证码\n"}],"enumConstants":[],"methods":[],"constructors":[]}

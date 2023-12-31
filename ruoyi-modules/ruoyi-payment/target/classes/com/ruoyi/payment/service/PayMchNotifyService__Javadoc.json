@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"payOrderNotify","paramTypes":["com.ruoyi.common.core.dto.PayOrderDto"],"doc":" 商户通知信息， 只有订单是终态，才会发送通知， 如明确成功和明确失败\n"},{"name":"createNotifyUrl","paramTypes":["com.ruoyi.common.core.dto.PayOrderDto","java.lang.String"],"doc":" 创建响应URL\n"}],"constructors":[]}

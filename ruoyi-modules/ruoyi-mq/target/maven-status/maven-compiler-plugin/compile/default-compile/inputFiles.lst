@@ -1,0 +1,14 @@
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\mq\PayOrderChannelMQReceiver.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\rabbitmq\receive\PayOrderMchNotifyRabbitMQReceiver.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\rocketmq\RocketMQSender.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\IMQSender.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\IMQMsgReceiver.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\rabbitmq\RabbitMQSender.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\RuoYiMqApplication.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\rabbitmq\receive\PayOrderChannelRabbitMQReceiver.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\rocketmq\receive\PayOrderMchNotifyRocketMQReceiver.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\rabbitmq\RabbitMQBeanProcessor.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\executor\MqThreadExecutor.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\rabbitmq\RabbitMQConfig.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\dubbo\RemoteMqServiceImpl.java
+D:\project\pay-cloud-plus\ruoyi-modules\ruoyi-mq\src\main\java\com\ruoyi\mq\mq\PayOrderMchNotifyMQReceiver.java

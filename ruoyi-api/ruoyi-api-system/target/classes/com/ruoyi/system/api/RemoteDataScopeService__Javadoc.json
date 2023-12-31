@@ -1,0 +1,1 @@
+{"doc":" 数据权限服务\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"getRoleCustom","paramTypes":["java.lang.Long"],"doc":" 获取角色自定义权限语句\n"},{"name":"getDeptAndChild","paramTypes":["java.lang.Long"],"doc":" 获取部门和下级权限语句\n"}],"constructors":[]}

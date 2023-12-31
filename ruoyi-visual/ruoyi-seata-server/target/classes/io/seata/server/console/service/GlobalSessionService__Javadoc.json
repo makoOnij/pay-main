@@ -1,0 +1,1 @@
+{"doc":" Global session service\n @author wangzhongxiang\n","fields":[],"enumConstants":[],"methods":[{"name":"query","paramTypes":["io.seata.server.console.param.GlobalSessionParam"],"doc":" Query global session\n @param param the param\n @return the GlobalSessionVO list\n"}],"constructors":[]}

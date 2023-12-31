@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"ext","doc":"api接口扩展字段， 当包含该字段时 将自动填充到实体对象属性中如{id:1, ext:{abc:222}}  则自动转换为： {id:1, abc:222}，\n  需配合ResponseBodyAdvice使用\n  "}],"enumConstants":[],"methods":[{"name":"extv","paramTypes":[],"doc":"get ext value  可直接使用JSONObject对象的函数 "}],"constructors":[]}

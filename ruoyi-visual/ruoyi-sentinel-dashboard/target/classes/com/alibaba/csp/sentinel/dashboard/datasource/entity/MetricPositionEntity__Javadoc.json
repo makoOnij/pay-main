@@ -1,0 +1,1 @@
+{"doc":" @author leyou\n","fields":[{"name":"port","doc":" Sentinel在该应用上使用的端口\n"},{"name":"hostname","doc":" 机器名，冗余字段\n"},{"name":"lastFetch","doc":" 上一次拉取的最晚时间戳\n"}],"enumConstants":[],"methods":[],"constructors":[]}

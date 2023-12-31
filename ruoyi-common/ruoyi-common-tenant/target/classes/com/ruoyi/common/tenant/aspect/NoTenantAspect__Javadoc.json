@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"pointcut","paramTypes":[],"doc":" 切入点\n"},{"name":"aroundLog","paramTypes":["org.aspectj.lang.ProceedingJoinPoint"],"doc":" 环绕操作\n\n @param point 切入点\n @return 原方法返回值\n @throws Throwable 异常信息\n"}],"constructors":[]}

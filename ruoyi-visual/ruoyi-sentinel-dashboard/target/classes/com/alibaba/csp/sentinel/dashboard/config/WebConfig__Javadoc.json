@@ -1,0 +1,1 @@
+{"doc":" @author leyou\n","fields":[],"enumConstants":[],"methods":[{"name":"sentinelFilterRegistration","paramTypes":[],"doc":" Add {@link CommonFilter} to the server, this is the simplest way to use Sentinel\n for Web application.\n"}],"constructors":[]}

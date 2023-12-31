@@ -1,0 +1,1 @@
+{"doc":" i18n util\n\n @author xuxueli 2018-01-17 20:39:06\n","fields":[],"enumConstants":[],"methods":[{"name":"getString","paramTypes":["java.lang.String"],"doc":" get val of i18n key\n\n @param key\n @return\n"},{"name":"getMultString","paramTypes":["java.lang.String[]"],"doc":" get mult val of i18n mult key, as json\n\n @param keys\n @return\n"}],"constructors":[]}

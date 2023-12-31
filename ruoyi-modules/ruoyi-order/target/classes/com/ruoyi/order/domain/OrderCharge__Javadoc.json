@@ -1,0 +1,1 @@
+{"doc":" 商户充值订单对象 order_merchant\n\n @author ruoyi\n @date 2023-11-22\n","fields":[{"name":"orderNo","doc":" 订单编号\n"},{"name":"amount","doc":" 充值金额\n"},{"name":"status","doc":" 订单状态\n"},{"name":"rate","doc":" 充值汇率\n"},{"name":"realAmount","doc":" 到账金额\n"},{"name":"chargeAddress","doc":" 充值地址\n"},{"name":"remark","doc":" 备注\n"}],"enumConstants":[],"methods":[],"constructors":[]}

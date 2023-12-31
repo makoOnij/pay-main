@@ -1,0 +1,1 @@
+{"doc":" @author leyou\n","fields":[{"name":"machineRules","doc":" {@code <machine, <id, rule>>}\n"}],"enumConstants":[],"methods":[{"name":"nextId","paramTypes":[],"doc":" Get next unused id.\n\n @return next unused id\n"}],"constructors":[]}

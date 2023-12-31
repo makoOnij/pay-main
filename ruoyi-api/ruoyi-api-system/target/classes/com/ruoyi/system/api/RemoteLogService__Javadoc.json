@@ -1,0 +1,1 @@
+{"doc":" 日志服务\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"saveLog","paramTypes":["com.ruoyi.system.api.domain.SysOperLog"],"doc":" 保存系统日志\n\n @param sysOperLog 日志实体\n @return 结果\n"},{"name":"saveLogininfor","paramTypes":["com.ruoyi.system.api.domain.SysLogininfor"],"doc":" 保存访问记录\n\n @param sysLogininfor 访问实体\n @return 结果\n"}],"constructors":[]}

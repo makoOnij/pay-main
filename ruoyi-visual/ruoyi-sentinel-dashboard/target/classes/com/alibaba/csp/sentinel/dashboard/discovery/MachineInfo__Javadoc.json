@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"version","doc":" Indicates the version of Sentinel client (since 0.2.0).\n"}],"enumConstants":[],"methods":[{"name":"isDead","paramTypes":[],"doc":" whether dead should be removed\n \n @return\n"},{"name":"toLogString","paramTypes":[],"doc":" Information for log\n\n @return\n"}],"constructors":[]}

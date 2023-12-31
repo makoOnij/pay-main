@@ -1,0 +1,1 @@
+{"doc":" 多租户配置\n\n @author oathsign\n","fields":[{"name":"column","doc":" 维护租户列名称\n"},{"name":"tables","doc":" 多租户的数据表集合\n"}],"enumConstants":[],"methods":[],"constructors":[]}

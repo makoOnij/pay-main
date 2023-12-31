@@ -1,0 +1,7 @@
+com\ruoyi\common\mail\config\MailConfiguration.class
+com\ruoyi\common\mail\config\properties\MailProperties.class
+com\ruoyi\common\mail\utils\MailUtils.class
+com\ruoyi\common\mail\config\properties\MailProperties__Javadoc.json
+com\ruoyi\common\mail\config\MailConfiguration__Javadoc.json
+META-INF\spring-configuration-metadata.json
+com\ruoyi\common\mail\utils\MailUtils__Javadoc.json

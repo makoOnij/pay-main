@@ -1,0 +1,1 @@
+{"doc":" @author cutecloud\n @date 2018/10/4 租户工具类\n","fields":[],"enumConstants":[],"methods":[{"name":"setTenantId","paramTypes":["java.lang.Long"],"doc":" TTL 设置租户ID<br/>\n <b>谨慎使用此方法,避免嵌套调用。尽量使用 {@code TenantBroker} </b>\n @param tenantId\n @see TenantBroker\n"},{"name":"getTenantId","paramTypes":[],"doc":" 获取TTL中的租户ID\n @return\n"}],"constructors":[]}

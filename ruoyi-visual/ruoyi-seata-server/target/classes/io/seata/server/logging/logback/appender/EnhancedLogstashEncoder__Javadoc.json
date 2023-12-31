@@ -1,0 +1,1 @@
+{"doc":" The type Enhanced logstash encoder\n\n @author wang.liang\n @since 1.5.0\n","fields":[],"enumConstants":[],"methods":[{"name":"setExcludeProvider","paramTypes":["java.lang.String"],"doc":" set exclude provider\n\n @param excludedProviderClassName the excluded provider class name\n"}],"constructors":[]}

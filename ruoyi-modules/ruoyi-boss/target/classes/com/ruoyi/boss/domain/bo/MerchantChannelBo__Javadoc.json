@@ -1,0 +1,1 @@
+{"doc":" 商户渠道业务对象\n\n @author ruoyi\n @date 2023-11-22\n","fields":[{"name":"name","doc":" 通道名称\n"},{"name":"code","doc":" 通道编码\n"},{"name":"maxAmount","doc":" 最大金额\n"},{"name":"minAmount","doc":" 最小金额\n"},{"name":"status","doc":" 状态0开启 1关闭\n"},{"name":"fee","doc":" 手续费\n"},{"name":"fixedFee","doc":" 固定手续费\n"}],"enumConstants":[],"methods":[],"constructors":[]}

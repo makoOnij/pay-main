@@ -1,0 +1,1 @@
+{"doc":" 对接 prometheus\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"sd","paramTypes":[],"doc":" 从注册中心获取所有服务组装成 prometheus 的数据结构\n"},{"name":"alerts","paramTypes":["java.lang.String"],"doc":" 接收 prometheus 报警消息\n\n @param message 消息体\n"}],"constructors":[]}

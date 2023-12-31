@@ -1,0 +1,1 @@
+{"doc":" Distributed locker factory\n @author zhongxiang.wang\n","fields":[{"name":"LOGGER","doc":" The constant LOGGER.\n"}],"enumConstants":[],"methods":[{"name":"getDistributedLocker","paramTypes":["java.lang.String"],"doc":" Get the distributed locker by lockerType\n\n @param lockerType the locker type\n @return the distributed locker\n"}],"constructors":[]}

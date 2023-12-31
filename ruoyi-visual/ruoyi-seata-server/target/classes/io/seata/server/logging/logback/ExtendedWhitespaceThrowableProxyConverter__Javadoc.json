@@ -1,0 +1,1 @@
+{"doc":" {@link ExtendedThrowableProxyConverter} that adds some additional whitespace around the\n stack trace.\n Copied from spring-boot-xxx.jar by wang.liang\n @author Phillip Webb\n","fields":[],"enumConstants":[],"methods":[],"constructors":[]}

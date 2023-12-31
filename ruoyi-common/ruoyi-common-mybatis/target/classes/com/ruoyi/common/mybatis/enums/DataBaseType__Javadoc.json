@@ -1,0 +1,1 @@
+{"doc":" 数据库类型\n\n @author Lion Li\n","fields":[],"enumConstants":[{"name":"MY_SQL","doc":" MySQL\n"},{"name":"ORACLE","doc":" Oracle\n"},{"name":"POSTGRE_SQL","doc":" PostgreSQL\n"},{"name":"SQL_SERVER","doc":" SQL Server\n"}],"methods":[],"constructors":[]}

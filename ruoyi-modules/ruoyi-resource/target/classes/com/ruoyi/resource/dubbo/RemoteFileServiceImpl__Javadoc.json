@@ -1,0 +1,1 @@
+{"doc":" 文件请求处理\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"upload","paramTypes":["java.lang.String","java.lang.String","java.lang.String","byte[]"],"doc":" 文件上传请求\n"},{"name":"selectUrlByIds","paramTypes":["java.lang.String"],"doc":" 通过ossId查询对应的url\n\n @param ossIds ossId串逗号分隔\n @return url串逗号分隔\n"}],"constructors":[]}

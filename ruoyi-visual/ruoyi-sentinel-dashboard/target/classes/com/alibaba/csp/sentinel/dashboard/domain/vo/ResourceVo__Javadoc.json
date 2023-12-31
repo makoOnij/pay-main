@@ -1,0 +1,1 @@
+{"doc":" @author leyou\n","fields":[],"enumConstants":[],"methods":[{"name":"visit","paramTypes":["com.alibaba.csp.sentinel.dashboard.domain.ResourceTreeNode","java.util.List","boolean","boolean"],"doc":" This node is visible when this.visible==true or one of this's parents is visible,\n root node is always invisible.\n"}],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":" @author slievrly\n @author funkye\n","fields":[],"enumConstants":[],"methods":[{"name":"getOrder","paramTypes":[],"doc":" higher than LoggingApplicationListener\n\n @return the order\n"}],"constructors":[]}

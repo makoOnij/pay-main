@@ -1,0 +1,1 @@
+{"doc":" @author xuxueli 2020-10-29 21:11:23\n","fields":[],"enumConstants":[{"name":"CRON","doc":" schedule by cron\n"},{"name":"FIX_RATE","doc":" schedule by fixed rate (in seconds)\n"}],"methods":[],"constructors":[]}

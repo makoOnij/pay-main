@@ -1,0 +1,1 @@
+{"doc":" Created by xuxueli on 17/3/10.\n","fields":[],"enumConstants":[],"methods":[{"name":"route","paramTypes":["com.xxl.job.core.biz.model.TriggerParam","java.util.List"],"doc":" route address\n\n @param addressList\n @return ReturnT.content=address\n"}],"constructors":[]}

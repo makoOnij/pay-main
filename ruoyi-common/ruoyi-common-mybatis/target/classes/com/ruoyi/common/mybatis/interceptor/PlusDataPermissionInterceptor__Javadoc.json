@@ -1,0 +1,1 @@
+{"doc":" 数据权限拦截器\n\n @author Lion Li\n @version 3.5.0\n","fields":[{"name":"invalidCacheSet","doc":" 无效注解方法缓存用于快速返回\n"}],"enumConstants":[],"methods":[{"name":"setWhere","paramTypes":["net.sf.jsqlparser.statement.select.PlainSelect","java.lang.String"],"doc":" 设置 where 条件\n\n @param plainSelect       查询对象\n @param mappedStatementId 执行方法id\n"}],"constructors":[]}

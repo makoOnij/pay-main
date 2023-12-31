@@ -1,0 +1,1 @@
+{"doc":" [Sa-Token 权限认证] 拦截器\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"getSaReactorFilter","paramTypes":["com.ruoyi.gateway.config.properties.IgnoreWhiteProperties"],"doc":" 注册 Sa-Token 全局过滤器\n"}],"constructors":[]}

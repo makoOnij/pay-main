@@ -1,0 +1,1 @@
+{"doc":" 文件信息\n\n @author ruoyi\n","fields":[{"name":"ossId","doc":" oss主键\n"},{"name":"name","doc":" 文件名称\n"},{"name":"url","doc":" 文件地址\n"}],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"run","paramTypes":["java.lang.Object"],"doc":" 执行业务逻辑\n @param tenantId\n @throws Exception\n"}],"constructors":[]}

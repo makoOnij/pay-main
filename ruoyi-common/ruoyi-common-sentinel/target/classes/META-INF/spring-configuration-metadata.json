@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "spring.cloud.sentinel.transport",
+      "type": "com.ruoyi.common.sentinel.config.properties.SentinelCustomProperties",
+      "sourceType": "com.ruoyi.common.sentinel.config.properties.SentinelCustomProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.cloud.sentinel.transport.server-name",
+      "type": "java.lang.String",
+      "sourceType": "com.ruoyi.common.sentinel.config.properties.SentinelCustomProperties"
+    }
+  ],
+  "hints": []
+}

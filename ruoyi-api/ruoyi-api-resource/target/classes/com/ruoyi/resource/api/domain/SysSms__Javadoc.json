@@ -1,0 +1,1 @@
+{"doc":" 文件信息\n\n @author ruoyi\n","fields":[{"name":"isSuccess","doc":" 是否成功\n"},{"name":"message","doc":" 响应消息\n"},{"name":"response","doc":" 实际响应体\n <p>\n 可自行转换为 SDK 对应的 SendSmsResponse\n"}],"enumConstants":[],"methods":[],"constructors":[]}

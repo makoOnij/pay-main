@@ -1,0 +1,1 @@
+{"doc":" 查单（渠道侧）接口定义\n","fields":[],"enumConstants":[],"methods":[{"name":"getIfCode","paramTypes":[],"doc":" 获取到接口code\n"},{"name":"query","paramTypes":["com.ruoyi.common.core.dto.PayOrderDto","com.ruoyi.common.core.dto.TenantDto"],"doc":" 查询订单\n"}],"constructors":[]}

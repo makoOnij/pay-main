@@ -1,0 +1,15 @@
+com\ruoyi\resource\api\RemoteMessageService.class
+com\ruoyi\resource\api\RemoteMailService.class
+com\ruoyi\resource\api\domain\WebsocketMessage$MessageType.class
+com\ruoyi\resource\api\RemoteFileService__Javadoc.json
+com\ruoyi\resource\api\RemoteSmsService__Javadoc.json
+com\ruoyi\resource\api\domain\WebsocketMessage.class
+com\ruoyi\resource\api\RemoteMessageService__Javadoc.json
+com\ruoyi\resource\api\domain\SysSms.class
+com\ruoyi\resource\api\RemoteMailService__Javadoc.json
+com\ruoyi\resource\api\domain\WebsocketMessage__Javadoc.json
+com\ruoyi\resource\api\domain\SysFile__Javadoc.json
+com\ruoyi\resource\api\RemoteFileService.class
+com\ruoyi\resource\api\RemoteSmsService.class
+com\ruoyi\resource\api\domain\SysFile.class
+com\ruoyi\resource\api\domain\SysSms__Javadoc.json

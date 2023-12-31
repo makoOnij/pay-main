@@ -1,0 +1,1 @@
+{"doc":" @author xuxueli 2020-01-19\n","fields":[],"enumConstants":[],"methods":[{"name":"doAlarm","paramTypes":["com.xxl.job.admin.core.model.XxlJobInfo","com.xxl.job.admin.core.model.XxlJobLog"],"doc":" job alarm\n\n @param info\n @param jobLog\n @return\n"}],"constructors":[]}

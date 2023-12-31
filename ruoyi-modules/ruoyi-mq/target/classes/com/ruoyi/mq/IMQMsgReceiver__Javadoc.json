@@ -1,0 +1,1 @@
+{"doc":" MQ 消息接收器 接口定义\n\n @author terrfly\n @site https://www.jeequan.com\n @date 2021/7/21 16:09\n","fields":[],"enumConstants":[],"methods":[{"name":"receiveMsg","paramTypes":["java.lang.String"],"doc":" 接收消息\n"}],"constructors":[]}

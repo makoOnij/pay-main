@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"name","doc":" 通道名称\n"},{"name":"amount","doc":" 渠道金额\n"},{"name":"payCode","doc":" 通道编码\n"},{"name":"status","doc":" 状态0 开启 1关闭\n"},{"name":"rate","doc":" 通道汇率\n"},{"name":"refund","doc":" 通道返点\n"},{"name":"ramark","doc":" 备注\n"}],"enumConstants":[],"methods":[],"constructors":[]}

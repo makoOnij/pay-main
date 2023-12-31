@@ -1,0 +1,1 @@
+{"doc":" @author leyou\n","fields":[],"enumConstants":[],"methods":[{"name":"search","paramTypes":["com.alibaba.csp.sentinel.dashboard.domain.ResourceTreeNode","java.lang.String"],"doc":" This node is visible only when searchKey matches this.resource or at least\n one of this's children is visible\n"}],"constructors":[]}

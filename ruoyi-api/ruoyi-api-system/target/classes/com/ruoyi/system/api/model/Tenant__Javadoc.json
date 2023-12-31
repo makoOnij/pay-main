@@ -1,0 +1,1 @@
+{"doc":" 用户信息\n\n @author ruoyi\n","fields":[{"name":"id","doc":" id\n"},{"name":"tenantName","doc":" 租户编号\n"}],"enumConstants":[],"methods":[],"constructors":[]}

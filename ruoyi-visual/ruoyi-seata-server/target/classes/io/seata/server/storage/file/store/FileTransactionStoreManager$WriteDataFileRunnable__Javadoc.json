@@ -1,0 +1,1 @@
+{"doc":" The type Write data file runnable.\n","fields":[],"enumConstants":[],"methods":[{"name":"handleRestRequest","paramTypes":[],"doc":" handle the rest requests when stopping is true\n"}],"constructors":[]}

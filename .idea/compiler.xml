@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Annotation profile for Pay-Cloud-Plus" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/com/github/therapi/therapi-runtime-javadoc-scribe/0.15.0/therapi-runtime-javadoc-scribe-0.15.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/github/therapi/therapi-runtime-javadoc/0.15.0/therapi-runtime-javadoc-0.15.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-configuration-processor/2.7.17/spring-boot-configuration-processor-2.7.17.jar" />
+        </processorPath>
+        <module name="ruoyi-job" />
+        <module name="ruoyi-common-skylog" />
+        <module name="ruoyi-common-redis" />
+        <module name="ruoyi-resource" />
+        <module name="ruoyi-api-system" />
+        <module name="ruoyi-common-satoken" />
+        <module name="ruoyi-xxl-job-admin" />
+        <module name="ruoyi-api-mq" />
+        <module name="ruoyi-gen" />
+        <module name="ruoyi-common-oss" />
+        <module name="ruoyi-sentinel-dashboard" />
+        <module name="ruoyi-common-excel" />
+        <module name="ruoyi-common-seata" />
+        <module name="ruoyi-common-dict" />
+        <module name="ruoyi-api-boss" />
+        <module name="ruoyi-api-telegram" />
+        <module name="ruoyi-stream-mq" />
+        <module name="ruoyi-common-mybatis" />
+        <module name="ruoyi-common-elasticsearch" />
+        <module name="ruoyi-common-sms" />
+        <module name="ruoyi-common-logstash" />
+        <module name="ruoyi-common-core" />
+        <module name="ruoyi-common-translation" />
+        <module name="ruoyi-common-web" />
+        <module name="ruoyi-demo" />
+        <module name="ruoyi-common-idempotent" />
+        <module name="ruoyi-mq" />
+        <module name="ruoyi-common-sentinel" />
+        <module name="ruoyi-boss" />
+        <module name="ruoyi-common-job" />
+        <module name="ruoyi-system" />
+        <module name="ruoyi-telegram" />
+        <module name="ruoyi-common-dubbo" />
+        <module name="ruoyi-common-tenant" />
+        <module name="ruoyi-common-doc" />
+        <module name="ruoyi-common-security" />
+        <module name="ruoyi-api-resource" />
+        <module name="ruoyi-order" />
+        <module name="ruoyi-common-websocket" />
+        <module name="ruoyi-common-encrypt" />
+        <module name="ruoyi-gateway" />
+        <module name="ruoyi-common-log" />
+        <module name="ruoyi-api-order" />
+        <module name="ruoyi-common-json" />
+        <module name="ruoyi-api-payment" />
+        <module name="ruoyi-common-mail" />
+        <module name="ruoyi-monitor" />
+        <module name="ruoyi-seata-server" />
+        <module name="ruoyi-nacos" />
+        <module name="ruoyi-common-loadbalancer" />
+        <module name="ruoyi-payment" />
+        <module name="ruoyi-common-prometheus" />
+        <module name="ruoyi-auth" />
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ruoyi-api-pay" target="1.8" />
+      <module name="ruoyi-api-socket" target="1.8" />
+      <module name="ruoyi-api-websocket" target="1.8" />
+      <module name="ruoyi-common-payment" target="1.8" />
+      <module name="ruoyi-pay" target="1.8" />
+      <module name="ruoyi-websocket" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

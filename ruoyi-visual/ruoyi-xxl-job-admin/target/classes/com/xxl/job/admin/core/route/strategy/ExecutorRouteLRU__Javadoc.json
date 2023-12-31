@@ -1,0 +1,1 @@
+{"doc":" 单个JOB对应的每个执行器，最久为使用的优先被选举\n a、LFU(Least Frequently Used)：最不经常使用，频率/次数\n b(*)、LRU(Least Recently Used)：最近最久未使用，时间\n <p>\n Created by xuxueli on 17/3/10.\n","fields":[],"enumConstants":[],"methods":[],"constructors":[]}

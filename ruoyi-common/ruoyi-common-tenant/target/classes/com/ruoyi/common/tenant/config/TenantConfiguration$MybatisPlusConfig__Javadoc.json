@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"tenantInit","paramTypes":["com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor","com.ruoyi.common.tenant.properties.TenantProperties"],"doc":" 初始化租户配置\n"},{"name":"tenantLineInnerInterceptor","paramTypes":["com.ruoyi.common.tenant.properties.TenantProperties"],"doc":" 多租户插件\n"}],"constructors":[]}

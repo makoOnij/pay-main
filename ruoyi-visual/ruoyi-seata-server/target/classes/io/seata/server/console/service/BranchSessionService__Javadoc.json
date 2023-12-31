@@ -1,0 +1,1 @@
+{"doc":" Branch session service\n @author wangzhongxiang\n","fields":[],"enumConstants":[],"methods":[{"name":"queryByXid","paramTypes":["java.lang.String"],"doc":" Query branch session by xid\n @param xid the xid\n @return the BranchSessionVO list\n"}],"constructors":[]}

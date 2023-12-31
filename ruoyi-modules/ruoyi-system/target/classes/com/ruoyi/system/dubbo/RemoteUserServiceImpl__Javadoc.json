@@ -1,0 +1,1 @@
+{"doc":" 用户服务\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"buildLoginUser","paramTypes":["com.ruoyi.system.api.domain.SysUser"],"doc":" 构建登录用户\n"}],"constructors":[]}

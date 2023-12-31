@@ -1,0 +1,1 @@
+{"doc":" 在线用户监控\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"list","paramTypes":["java.lang.String","java.lang.String"],"doc":" 在线用户列表\n\n @param ipaddr   ip地址\n @param userName 用户名\n"},{"name":"forceLogout","paramTypes":["java.lang.String"],"doc":" 强退用户\n"}],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":" 短信服务\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"send","paramTypes":["java.lang.String","java.lang.String","java.util.LinkedHashMap"],"doc":" 发送短信\n\n @param phones     电话号(多个逗号分割)\n @param templateId 模板id\n @param param      模板对应参数\n"}],"constructors":[]}

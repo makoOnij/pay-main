@@ -1,0 +1,1 @@
+{"doc":" Sa-Token 配置\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"stpInterface","paramTypes":[],"doc":" 权限接口实现(使用bean注入方便用户替换)\n"},{"name":"saTokenDao","paramTypes":[],"doc":" 自定义dao层存储\n"}],"constructors":[]}

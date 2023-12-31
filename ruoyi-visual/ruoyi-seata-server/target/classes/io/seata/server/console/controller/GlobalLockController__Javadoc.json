@@ -1,0 +1,1 @@
+{"doc":" Global Lock Controller\n @author zhongxiang.wang\n","fields":[],"enumConstants":[],"methods":[{"name":"query","paramTypes":["io.seata.server.console.param.GlobalLockParam"],"doc":" Query locks by param\n @param param the param\n @return the list of GlobalLockVO\n"}],"constructors":[]}

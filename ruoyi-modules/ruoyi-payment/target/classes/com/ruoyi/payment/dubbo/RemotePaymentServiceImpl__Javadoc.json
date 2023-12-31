@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"processPay","paramTypes":["com.ruoyi.common.core.dto.PayOrderDto"],"doc":" 调用三方通道出款\n\n @param dto\n"}],"constructors":[]}

@@ -1,0 +1,6 @@
+D:\project\pay-cloud-plus\ruoyi-api\ruoyi-api-mq\src\main\java\com\ruoyi\mq\api\RemoteMQService.java
+D:\project\pay-cloud-plus\ruoyi-api\ruoyi-api-mq\src\main\java\com\ruoyi\mq\api\constant\MQSendTypeEnum.java
+D:\project\pay-cloud-plus\ruoyi-api\ruoyi-api-mq\src\main\java\com\ruoyi\mq\api\constant\MQVenderCS.java
+D:\project\pay-cloud-plus\ruoyi-api\ruoyi-api-mq\src\main\java\com\ruoyi\mq\api\model\PayOrderChannelMQ.java
+D:\project\pay-cloud-plus\ruoyi-api\ruoyi-api-mq\src\main\java\com\ruoyi\mq\api\model\PayOrderMchNotifyMQ.java
+D:\project\pay-cloud-plus\ruoyi-api\ruoyi-api-mq\src\main\java\com\ruoyi\mq\api\model\AbstractMQ.java

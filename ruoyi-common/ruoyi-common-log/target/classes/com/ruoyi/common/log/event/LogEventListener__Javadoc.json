@@ -1,0 +1,1 @@
+{"doc":" 异步调用日志服务\n\n @author ruoyi\n","fields":[],"enumConstants":[],"methods":[{"name":"saveLog","paramTypes":["com.ruoyi.common.log.event.OperLogEvent"],"doc":" 保存系统日志记录\n"}],"constructors":[]}

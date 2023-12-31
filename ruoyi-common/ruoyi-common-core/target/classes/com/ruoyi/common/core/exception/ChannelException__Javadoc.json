@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"unknown","paramTypes":["java.lang.String"],"doc":"未知状态 "},{"name":"sysError","paramTypes":["java.lang.String"],"doc":"系统内异常 "}],"constructors":[{"name":"<init>","paramTypes":["com.ruoyi.common.core.domain.ChannelRetMsg"],"doc":"业务自定义异常 "}]}

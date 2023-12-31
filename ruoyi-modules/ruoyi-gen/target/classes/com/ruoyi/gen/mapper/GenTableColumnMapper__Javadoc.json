@@ -1,0 +1,1 @@
+{"doc":" 业务字段 数据层\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"selectDbTableColumnsByName","paramTypes":["java.lang.String"],"doc":" 根据表名称查询列信息\n\n @param tableName 表名称\n @return 列信息\n"}],"constructors":[]}

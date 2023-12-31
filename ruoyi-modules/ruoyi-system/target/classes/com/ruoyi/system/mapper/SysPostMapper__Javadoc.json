@@ -1,0 +1,1 @@
+{"doc":" 岗位信息 数据层\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"selectPostListByUserId","paramTypes":["java.lang.Long"],"doc":" 根据用户ID获取岗位选择框列表\n\n @param userId 用户ID\n @return 选中岗位ID列表\n"},{"name":"selectPostsByUserName","paramTypes":["java.lang.String"],"doc":" 查询用户所属岗位组\n\n @param userName 用户名\n @return 结果\n"}],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[{"name":"FILE","doc":" The File store mode.\n"},{"name":"DB","doc":" The Db store mode.\n"},{"name":"REDIS","doc":" The Redis store mode.\n"}],"methods":[],"constructors":[]}

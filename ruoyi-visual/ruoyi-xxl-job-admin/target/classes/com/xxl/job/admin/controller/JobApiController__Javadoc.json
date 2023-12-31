@@ -1,0 +1,1 @@
+{"doc":" Created by xuxueli on 17/5/10.\n","fields":[],"enumConstants":[],"methods":[{"name":"api","paramTypes":["javax.servlet.http.HttpServletRequest","java.lang.String","java.lang.String"],"doc":" api\n\n @param uri\n @param data\n @return\n"}],"constructors":[]}

@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "auth",
+      "type": "com.alibaba.csp.sentinel.dashboard.config.AuthProperties",
+      "sourceType": "com.alibaba.csp.sentinel.dashboard.config.AuthProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "auth.enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.alibaba.csp.sentinel.dashboard.config.AuthProperties",
+      "defaultValue": true
+    }
+  ],
+  "hints": []
+}

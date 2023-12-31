@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"alarm","paramTypes":["com.xxl.job.admin.core.model.XxlJobInfo","com.xxl.job.admin.core.model.XxlJobLog"],"doc":" job alarm\n\n @param info\n @param jobLog\n @return\n"}],"constructors":[]}

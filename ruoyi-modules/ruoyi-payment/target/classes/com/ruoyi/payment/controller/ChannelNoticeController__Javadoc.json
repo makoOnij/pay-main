@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"doReturn","paramTypes":["javax.servlet.http.HttpServletRequest","java.lang.String","java.lang.String"],"doc":" 同步通知入口\n <p>\n payOrderId 前缀为 ONLYJUMP_，表示直接跳转\n"},{"name":"doNotify","paramTypes":["javax.servlet.http.HttpServletRequest","java.lang.String","java.lang.String"],"doc":" 异步回调入口\n"}],"constructors":[]}

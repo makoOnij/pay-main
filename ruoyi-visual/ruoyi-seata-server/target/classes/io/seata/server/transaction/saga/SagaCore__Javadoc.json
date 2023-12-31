@@ -1,0 +1,1 @@
+{"doc":" The type saga core.\n\n @author ph3636\n","fields":[],"enumConstants":[],"methods":[{"name":"getSagaResourceId","paramTypes":["io.seata.server.session.GlobalSession"],"doc":" get saga ResourceId\n\n @param globalSession the globalSession\n @return sagaResourceId\n"}],"constructors":[]}

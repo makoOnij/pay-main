@@ -1,0 +1,1 @@
+{"doc":" 通道列表业务对象\n\n @author ruoyi\n @date 2023-11-24\n","fields":[{"name":"merchantWay","doc":" 状态0 开启 1关闭\n"}],"enumConstants":[],"methods":[],"constructors":[]}

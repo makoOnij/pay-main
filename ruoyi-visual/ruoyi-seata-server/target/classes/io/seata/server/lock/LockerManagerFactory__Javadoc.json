@@ -1,0 +1,1 @@
+{"doc":" The type Lock manager factory.\n\n @author sharajava\n","fields":[{"name":"LOCK_MANAGER","doc":" the lock manager\n"}],"enumConstants":[],"methods":[{"name":"getLockManager","paramTypes":[],"doc":" Get lock manager.\n\n @return the lock manager\n"}],"constructors":[]}

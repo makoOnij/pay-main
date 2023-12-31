@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"orderNo","doc":" 支付订单号\n"},{"name":"mchOrderNo","doc":" 商户订单号\n"},{"name":"orderState","doc":" 订单状态\n"},{"name":"message","doc":" 支付参数\n"},{"name":"channelRetMsg","doc":" 上游渠道返回数据包 (无需JSON序列化)\n"}],"enumConstants":[],"methods":[],"constructors":[]}

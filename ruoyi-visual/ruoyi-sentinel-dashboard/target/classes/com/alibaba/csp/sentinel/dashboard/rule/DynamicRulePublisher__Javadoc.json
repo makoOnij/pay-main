@@ -1,0 +1,1 @@
+{"doc":" @author Eric Zhao\n @since 1.4.0\n","fields":[],"enumConstants":[],"methods":[{"name":"publish","paramTypes":["java.lang.String","java.lang.Object"],"doc":" Publish rules to remote rule configuration center for given application name.\n\n @param app app name\n @param rules list of rules to push\n @throws Exception if some error occurs\n"}],"constructors":[]}

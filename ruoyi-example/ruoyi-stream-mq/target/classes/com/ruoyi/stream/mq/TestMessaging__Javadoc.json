@@ -1,0 +1,1 @@
+{"doc":" @author Lion Li\n","fields":[{"name":"msgId","doc":" 消息id\n"},{"name":"msgText","doc":" 消息内容\n"}],"enumConstants":[],"methods":[],"constructors":[]}

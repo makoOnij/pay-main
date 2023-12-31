@@ -1,0 +1,8 @@
+com\ruoyi\common\sentinel\config\properties\SentinelCustomProperties__Javadoc.json
+com\alibaba\cloud\sentinel\custom\SentinelAutoConfiguration$SentinelConverterConfiguration$SentinelJsonConfiguration.class
+com\alibaba\cloud\sentinel\custom\SentinelAutoConfiguration__Javadoc.json
+com\alibaba\cloud\sentinel\custom\SentinelAutoConfiguration$SentinelConverterConfiguration$SentinelXmlConfiguration.class
+com\alibaba\cloud\sentinel\custom\SentinelAutoConfiguration$SentinelConverterConfiguration.class
+com\ruoyi\common\sentinel\config\properties\SentinelCustomProperties.class
+META-INF\spring-configuration-metadata.json
+com\alibaba\cloud\sentinel\custom\SentinelAutoConfiguration.class

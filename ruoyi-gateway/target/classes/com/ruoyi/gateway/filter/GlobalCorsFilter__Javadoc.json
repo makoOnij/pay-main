@@ -1,0 +1,1 @@
+{"doc":" 跨域配置\n\n @author Lion Li\n","fields":[{"name":"ALLOWED_HEADERS","doc":" 这里为支持的请求头，如果有自定义的header字段请自己添加\n"}],"enumConstants":[],"methods":[],"constructors":[]}

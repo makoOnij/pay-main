@@ -1,0 +1,1 @@
+{"doc":" The interface Session storable.\n\n @author slievrly\n","fields":[],"enumConstants":[],"methods":[{"name":"encode","paramTypes":[],"doc":" Encode byte [ ].\n\n @return the byte [ ]\n"},{"name":"decode","paramTypes":["byte[]"],"doc":" Decode.\n\n @param src the src\n"}],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":" 租户业务对象\n\n @author ruoyi\n @date 2023-11-20\n","fields":[{"name":"ids","doc":" id\n"},{"name":"status","doc":" 租户状态（0正常 1停用）\n"}],"enumConstants":[],"methods":[],"constructors":[]}

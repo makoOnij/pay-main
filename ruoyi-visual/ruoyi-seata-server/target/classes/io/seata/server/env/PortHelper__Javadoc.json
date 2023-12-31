@@ -1,0 +1,1 @@
+{"doc":" @author wang.liang\n","fields":[],"enumConstants":[],"methods":[{"name":"getPortFromConfigFile","paramTypes":[],"doc":" get config from configFile\n -Dspring.config.location > classpath:application.properties > classpath:application.yml\n\n @return the port\n @throws IOException the io exception\n"}],"constructors":[]}

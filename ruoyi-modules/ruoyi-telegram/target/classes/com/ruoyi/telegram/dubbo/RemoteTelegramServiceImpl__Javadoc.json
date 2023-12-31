@@ -1,0 +1,1 @@
+{"doc":" 用户服务\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"send","paramTypes":["com.ruoyi.common.core.dto.PayOrderDto"],"doc":" 队列发送消息\n\n @param build\n"}],"constructors":[]}

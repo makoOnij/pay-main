@@ -1,0 +1,1 @@
+{"doc":" The type Memory locker.\n\n @author zhangsen\n","fields":[{"name":"branchSession","doc":" The Branch session.\n"}],"enumConstants":[],"methods":[],"constructors":[{"name":"<init>","paramTypes":["io.seata.server.session.BranchSession"],"doc":" Instantiates a new Memory locker.\n\n @param branchSession the branch session\n"}]}

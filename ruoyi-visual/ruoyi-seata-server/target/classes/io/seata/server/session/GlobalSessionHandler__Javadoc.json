@@ -1,0 +1,1 @@
+{"doc":" The Functional Interface Global session handler\n\n @author wang.liang\n @since 1.5.0\n","fields":[],"enumConstants":[],"methods":[{"name":"handle","paramTypes":["io.seata.server.session.GlobalSession"],"doc":" Handle global session.\n\n @param globalSession the global session\n @throws TransactionException the transaction exception\n"}],"constructors":[]}

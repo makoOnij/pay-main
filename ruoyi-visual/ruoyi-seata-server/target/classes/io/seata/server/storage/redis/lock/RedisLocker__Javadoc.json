@@ -1,0 +1,1 @@
+{"doc":" The redis lock store operation\n\n @author funkye\n @author wangzhongxiang\n","fields":[],"enumConstants":[],"methods":[],"constructors":[{"name":"<init>","paramTypes":[],"doc":" Instantiates a new Redis locker.\n"}]}

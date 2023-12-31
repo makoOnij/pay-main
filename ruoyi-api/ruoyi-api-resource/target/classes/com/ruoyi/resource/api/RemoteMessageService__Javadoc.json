@@ -1,0 +1,1 @@
+{"doc":" 消息服务\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"sendMessage","paramTypes":["java.lang.Long","com.ruoyi.resource.api.domain.WebsocketMessage"],"doc":" 发送消息\n\n @param sessionKey session主键 一般为用户id\n @param message    消息文本\n"}],"constructors":[]}

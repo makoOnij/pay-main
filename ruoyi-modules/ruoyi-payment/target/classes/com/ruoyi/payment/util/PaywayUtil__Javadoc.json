@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"getRealPaywayService","paramTypes":["java.lang.Object","java.lang.String"],"doc":" 获取真实的支付方式Service\n"},{"name":"getRealPaywayV3Service","paramTypes":["java.lang.Object","java.lang.String"],"doc":" 获取微信V3真实的支付方式Service\n"}],"constructors":[]}

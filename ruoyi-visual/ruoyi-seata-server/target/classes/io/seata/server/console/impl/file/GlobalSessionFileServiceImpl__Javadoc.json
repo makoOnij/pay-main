@@ -1,0 +1,1 @@
+{"doc":" Global Session File ServiceImpl\n\n @author zhongxiang.wang\n @author miaoxueyu\n","fields":[],"enumConstants":[],"methods":[{"name":"obtainPredicate","paramTypes":["io.seata.server.console.param.GlobalSessionParam"],"doc":" obtain the condition\n\n @param param condition for query global session\n @return the filter condition\n"}],"constructors":[]}

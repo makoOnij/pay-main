@@ -1,0 +1,1 @@
+{"doc":" Tree基类\n\n @author Lion Li\n","fields":[{"name":"parentName","doc":" 父菜单名称\n"},{"name":"parentId","doc":" 父菜单ID\n"},{"name":"children","doc":" 子部门\n"}],"enumConstants":[],"methods":[],"constructors":[]}

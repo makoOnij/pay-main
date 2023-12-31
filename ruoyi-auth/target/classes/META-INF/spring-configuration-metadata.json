@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "user.password",
+      "type": "com.ruoyi.auth.properties.UserPasswordProperties",
+      "sourceType": "com.ruoyi.auth.properties.UserPasswordProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "user.password.lock-time",
+      "type": "java.lang.Integer",
+      "description": "密码锁定时间（默认10分钟）",
+      "sourceType": "com.ruoyi.auth.properties.UserPasswordProperties"
+    },
+    {
+      "name": "user.password.max-retry-count",
+      "type": "java.lang.Integer",
+      "description": "密码最大错误次数",
+      "sourceType": "com.ruoyi.auth.properties.UserPasswordProperties"
+    }
+  ],
+  "hints": []
+}

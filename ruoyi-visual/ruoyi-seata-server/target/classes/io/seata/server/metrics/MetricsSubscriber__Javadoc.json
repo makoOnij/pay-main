@@ -1,0 +1,1 @@
+{"doc":" Event subscriber for metrics\n\n @author zhengyangyong\n","fields":[],"enumConstants":[],"methods":[{"name":"hashCode","paramTypes":[],"doc":" PMD check\n SuppressWarnings(\"checkstyle:EqualsHashCode\")\n @return the hash code\n"}],"constructors":[]}
