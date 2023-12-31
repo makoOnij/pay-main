@@ -23,10 +23,10 @@
         <module name="ruoyi-api-mq" />
         <module name="ruoyi-gen" />
         <module name="ruoyi-common-oss" />
-        <module name="ruoyi-sentinel-dashboard" />
         <module name="ruoyi-common-excel" />
-        <module name="ruoyi-common-seata" />
+        <module name="ruoyi-sentinel-dashboard" />
         <module name="ruoyi-common-dict" />
+        <module name="ruoyi-common-seata" />
         <module name="ruoyi-api-boss" />
         <module name="ruoyi-api-telegram" />
         <module name="ruoyi-stream-mq" />
